@@ -13,3 +13,22 @@ body{
     position: relative;
     font-family: sans-serif;
 }
+
+.sidebar{
+    width: 24px;
+    background-color: var(--main-color);
+    height: 100vh;
+    position: fixed;
+}
+
+.logo-content{
+    height: 67px;
+    background-color: var(--bg-color);
+}
+
+.logo_content .logo{
+    color: #fff;
+    display: flex;
+    background-color: var(--bg-color);
+    padding: 20px;
+}
